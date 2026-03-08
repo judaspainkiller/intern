@@ -24,4 +24,5 @@
 Датасет для обучения был проанализован, была выявлена причина низкого значения метрики ERR, которая заключалась в дисбалансе классов.
 В представленном датасете ранги были от 0 до 4, документов с рангом 0 было больше всего, а документов с рангами 3 и 4, что привело к низким показателям ERR.
 
-# Ссылка на проект: https://colab.research.google.com/drive/1y4TaWSpXMCYAvP_sMtoz2MVA8772dO3U?usp=sharing#scrollTo=VfGf4X50YGBR
+# Ссылка на проект: 
+https://colab.research.google.com/drive/1y4TaWSpXMCYAvP_sMtoz2MVA8772dO3U?usp=sharing#scrollTo=VfGf4X50YGBR
